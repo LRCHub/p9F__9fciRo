@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "パリィ",
+  "base_artist": "宮守文学",
+  "createdAt": "2026-03-15T14:56:04.058255Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パリィ",
+      "artist": "宮守文学",
+      "has_synced": false,
+      "path": "select/pl_01_パリィ_宮守文学.txt"
+    }
+  ]
+}
